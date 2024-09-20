@@ -1,4 +1,4 @@
-# Reproduce_CrowdNav
+# Reproduce_IntentionCrowdNav
 This repository contains the codes for reproducing the paper titled "Intention Aware Robot Crowd Navigation with Attention-Based Interaction Graph" in ICRA 2023.  
 Please check the [original code repo](https://github.com/Shuijing725/CrowdNav_Prediction_AttnGraph), and the [project website](https://sites.google.com/view/intention-aware-crowdnav/home) and [arXiv preprint](https://arxiv.org/abs/2203.01821).
 
