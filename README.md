@@ -4,7 +4,6 @@ Please check the [original code repo](https://github.com/Shuijing725/CrowdNav_Pr
 
 ## Environment Setup
 I tested the code on Windows 11.
-
 ```
 python test.py
 ```
