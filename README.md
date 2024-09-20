@@ -5,7 +5,9 @@ Please check the [original code repo](https://github.com/Shuijing725/CrowdNav_Pr
 ## Environment Setup
 I tested the code on Windows 11.
 
-`python test.py`
+```
+python test.py
+```
 
 1. In a conda environment with Python 3.8.19, install the required python package
 ```
